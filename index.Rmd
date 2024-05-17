@@ -1,0 +1,7 @@
+<img src="C:/Users/Usuario/Desktop/About Me/entidades/entidad8024/Home.png" class="full-width">
+<img src="C:/Users/Usuario/Desktop/About Me/entidades/entidad8024/Pag2.png" class="full-width">
+<img src="C:/Users/Usuario/Desktop/About Me/entidades/entidad8024/Pag3.png" class="full-width">
+<img src="C:/Users/Usuario/Desktop/About Me/entidades/entidad8024/Pag4.png" class="full-width">
+<img src="C:/Users/Usuario/Desktop/About Me/entidades/entidad8024/Pag5.png" class="full-width">
+
+
